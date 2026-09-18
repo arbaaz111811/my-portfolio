@@ -1,6 +1,7 @@
 import { FaWordpress, FaReact } from 'react-icons/fa'
 import { SiShopify } from 'react-icons/si'
-function Banner() {
+function Banner({arabaaz}) {
+    // console.log(arabaaz,"arbaaz")
     return (
         <section className="bg-[#FFFFF] pt-[30px] md:pt-[40px] lg:pt-[50px]">
             <div className="max-w-[1140px] mx-auto px-4">

@@ -1,0 +1,33 @@
+[
+    {
+        "name": "John Doe",
+        "role": "Business Owner",
+        "message": "Great work! The website looks clean, modern, and works perfectly."
+    },
+    {
+        "name": "Sarah Khan",
+        "role": "Project Manager",
+        "message": "Very professional work and excellent communication throughout the project."
+    },
+    {
+        "name": "Michael Smith",
+        "role": "Founder",
+        "message": "The development process was smooth and the final result exceeded expectations."
+    },
+    {
+        "name": "Sarah Khan",
+        "role": "Project Manager",
+        "message": "Very professional work and excellent communication throughout the project."
+    },
+    {
+        "name": "Sarah Khan",
+        "role": "Project Manager",
+        "message": "Very professional work and excellent communication throughout the project."
+    },
+    {
+        "name": "John Doe",
+        "role": "Business Owner",
+        "message": "Great work! The website looks clean, modern, and works perfectly."
+    }
+
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "name": "Ambrosian",
+        "category": "wordpress",
+        "like": false,
+        "description": "A WordPress website project.",
+        "image": "/Ambrosian-Logo_final.png"       
+    },
+    {
+        "name": "Decors",
+        "category": "wordpress",
+        "like": false,
+        "description": "A WordPress website project.",
+         "image": "/Decors-Logo.jpg"
+    },
+    {
+        "name": "Maxtech",
+        "category": "wordpress",
+        "like": false,
+        "description": "A WordPress website project."
+    },
+    {
+        "name": "Sylvaan",
+        "category": "shopify",
+        "like": false,
+        "description": "A Shopify website project."
+    },
+    {
+        "name": "Track & Trail",
+        "category": "shopify",
+        "like": false,
+        "description": "A Shopify website project."
+    },
+    {
+        "name": "Cocoons",
+        "category": "shopify",
+        "like": false,
+        "description": "A Shopify website project."
+    },
+    {
+        "name": "HDFC",
+        "category": "react",
+        "like": false,
+        "description": "A React website project."
+    },
+    {
+        "name": "Thor",
+        "category": "react",
+        "like": false,
+        "description": "A React website project."
+    },
+    {
+        "name": "Westside",
+        "category": "react",
+        "like": false,
+        "description": "A React website project."
+    }
+]
